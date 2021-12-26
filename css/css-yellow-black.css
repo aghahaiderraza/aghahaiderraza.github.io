@@ -10515,7 +10515,7 @@ input:-webkit-autofill:hover {
     margin-top: -10px;
     display: block;
     height: 250%;
-    width: 100%;
+    width: auto;
 }
 
 .with-header {
