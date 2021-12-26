@@ -10512,9 +10512,10 @@ input:-webkit-autofill:hover {
 }
 
 .header-brand>img {
+    margin-top: -10px;
     display: block;
-    height: 100%;
-    width: auto;
+    height: 250%;
+    width: 100%;
 }
 
 .with-header {
